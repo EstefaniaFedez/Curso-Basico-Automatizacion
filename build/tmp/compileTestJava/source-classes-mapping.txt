@@ -1,0 +1,2 @@
+automationTesting/autentication/TestAutentication.java
+ automationTesting.autentication.TestAutentication
