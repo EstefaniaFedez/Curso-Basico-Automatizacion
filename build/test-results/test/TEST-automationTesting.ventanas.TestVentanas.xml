@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="automationTesting.ventanas.TestVentanas" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-01T02:44:55" hostname="localhost.localdomain" time="5.789">
+  <properties/>
+  <testcase name="testNewWindow" classname="automationTesting.ventanas.TestVentanas" time="5.789"/>
+  <system-out><![CDATA[ID ventana inicial: CDwindow-1DD08774A129EB1DCB7177E128471349
+titulo ventana: Frames & windows
+ID ventana 2: CDwindow-8DDD379BD7B4ADEF67E7964F0D69DD31
+titulo ventana 2: SeleniumHQ Browser Automation
+click the button to open a new window with some specifications
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 6244
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+may 31, 2021 9:44:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
